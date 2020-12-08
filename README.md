@@ -1,1 +1,1 @@
-# Project37-InfiniteRunnerGame
+# C37
